@@ -1,1 +1,1 @@
-# 🐍 Fun Old Python Mini-Programs
+# Fun Old Python Mini-Programs
